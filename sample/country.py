@@ -12,5 +12,5 @@ country = {'India':'INR',
            }
 if code in country:
     print(f' Country code of', sys.argv[1] , f'is' , country[code])
-#else:
-   # print("enter correct data")
+else:
+   print("enter correct data")

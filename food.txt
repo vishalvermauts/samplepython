@@ -1,0 +1,6 @@
+bread
+rice
+dal
+roti
+chicken
+mushrooms
