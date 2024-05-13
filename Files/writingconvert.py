@@ -17,4 +17,9 @@ fin=open('web.html')
 
 text = fin.readlines()
 
+fin.close()
+
+#fin.readlines()
+
+
 print(text)
