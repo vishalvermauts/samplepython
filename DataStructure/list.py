@@ -2,6 +2,8 @@ var='vishal'
 
 name=' here'
 list = [7, 11.2, 'some text', var]
+
+print(list[::1])
 print(list)
 list[2] +=name
 list[0]+=-119*3
